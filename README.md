@@ -1,5 +1,6 @@
 ## Functional Programming
  - [Bartosz Milewski's Programming Café](https://bartoszmilewski.com)
+ - [Matt Might Blog](http://matt.might.net/articles/)
 
 ## Category Theory
  - [The n-Category Café](https://golem.ph.utexas.edu/category/)

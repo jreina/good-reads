@@ -10,3 +10,9 @@
  - [John D. Cook's Blog](https://www.johndcook.com/blog/)
  - [Q.E.D](https://medium.com/q-e-d)
  - [Theory Meets Practice](http://staff.math.su.se/hoehle/blog/)
+ 
+ ## Civil Engineering
+ - [Geoff Boeing - Urban Planning and Spatial Analysis](https://geoffboeing.com/)
+ 
+ ## Notable Reads
+- [Comparing City Street Orientations - Geoff Boeing](https://geoffboeing.com/2018/07/comparing-city-street-orientations/)
